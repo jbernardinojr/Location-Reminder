@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace 'com.udacity.project4'
+    namespace 'com.bernardino.reminders'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.udacity.project4"
+        applicationId "com.bernardino.reminders"
         minSdk rootProject.minSdkVersion
         targetSdk rootProject.targetSdkVersion
         versionCode 1
